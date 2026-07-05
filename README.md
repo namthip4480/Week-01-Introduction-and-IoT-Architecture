@@ -34,9 +34,8 @@
 
 สุดท้าย ให้ข้อเสนอแนะว่าฉันควรปรับปรุงตรงไหนเพื่อให้ได้คะแนนสูงขึ้น
 ```
-```
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/d78f0877-72df-43ec-8c98-4f642bc19dd7" />
-```
+
 ## Prompt หมวด B — ข้อที่ 1: Internet Layer IoT Network Technologies
 ```
 คุณคือ TA วิชา  03376134 APPLICATIONS OF INTERNET OF THINGS  
