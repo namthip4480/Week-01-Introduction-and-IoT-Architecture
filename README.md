@@ -35,6 +35,9 @@
 สุดท้าย ให้ข้อเสนอแนะว่าฉันควรปรับปรุงตรงไหนเพื่อให้ได้คะแนนสูงขึ้น
 ```
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/d78f0877-72df-43ec-8c98-4f642bc19dd7" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/ce77f6e8-fd62-4f6c-b2e5-f81360825e7b" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/b3e00a70-4e85-4e9d-968a-91d33d3f38c7" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/4d5b6208-e6aa-4a67-9a8e-8900e1d65c7d" />
 
 ## Prompt หมวด B — ข้อที่ 1: Internet Layer IoT Network Technologies
 ```
