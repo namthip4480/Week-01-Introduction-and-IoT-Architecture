@@ -34,7 +34,10 @@
 
 สุดท้าย ให้ข้อเสนอแนะว่าฉันควรปรับปรุงตรงไหนเพื่อให้ได้คะแนนสูงขึ้น
 ```
+## คำตอบน้ำทิพย์ 67030115
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/d78f0877-72df-43ec-8c98-4f642bc19dd7" />
+
+## คำตอบ AI
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/ce77f6e8-fd62-4f6c-b2e5-f81360825e7b" />
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/b3e00a70-4e85-4e9d-968a-91d33d3f38c7" />
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/4d5b6208-e6aa-4a67-9a8e-8900e1d65c7d" />
@@ -76,7 +79,10 @@
 สุดท้าย ให้ข้อเสนอแนะว่าฉันควรปรับปรุงตรงไหนเพื่อให้ได้คะแนนสูงขึ้น
 
 ```
+## คำตอบน้ำทิพย์ 67030115
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/2d393a54-37bc-4b0f-b5cb-6f8281fcf54f" />
+
+## คำตอบ AI
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/f4b229bc-b27f-44af-9d76-7a976b3d0a83" />
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/b19ddb9b-add0-4e0f-934a-f96649cada8a" />
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/82467753-91a7-4c8c-9950-6418b7cedcfb" />
@@ -119,3 +125,11 @@
 
 สุดท้าย ให้ข้อเสนอแนะว่าฉันควรปรับปรุงตรงไหนเพื่อให้ได้คะแนนสูงขึ้น
 ```
+## คำตอบน้ำทิพย์ 67030115
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/69d9364d-ea45-4c90-a587-7975cdf721b7" />
+
+## คำตอบ AI
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/c825f115-8c39-4af9-80e9-065eed142879" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/44c959ef-dabf-4da7-9117-c7cd7dbb9ad3" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/8223d81d-88dc-46ed-90cc-38afaa53c1e4" />
+
