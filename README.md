@@ -76,6 +76,11 @@
 สุดท้าย ให้ข้อเสนอแนะว่าฉันควรปรับปรุงตรงไหนเพื่อให้ได้คะแนนสูงขึ้น
 
 ```
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/2d393a54-37bc-4b0f-b5cb-6f8281fcf54f" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/f4b229bc-b27f-44af-9d76-7a976b3d0a83" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/b19ddb9b-add0-4e0f-934a-f96649cada8a" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/82467753-91a7-4c8c-9950-6418b7cedcfb" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/71f5083b-48d9-4c12-82b9-47701867615b" />
 
 ##  **Prompt หมวด C — ข้อที่ 2: IoTWF Standardized Architecture**
 
